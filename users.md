@@ -69,6 +69,12 @@
   GitHub: [igcigc](https://github.com/igcigc)  
   Facebook:
 
+- Name: Sparsh  
+  Place: India  
+  Bio: Student.  
+  GitHub: [sparsh10](https://github.com/sparsh10)  
+  Facebook:
+  
 - Name: Mary Hull  
   Place: Seattle  
   Bio: Sys admin. Runner.   
